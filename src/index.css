@@ -9,3 +9,5 @@
 .active:hover {
     @apply text-blue-700 bg-blue-200/40 w-[250px] rounded-r-full
 }
+
+
