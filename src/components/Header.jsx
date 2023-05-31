@@ -17,8 +17,8 @@ const Header = () => {
       <div className="flex-1">
         <div className="px-4 py-2 bg-gray-200 rounded-lg h-12 w-[700px]">
           <form className=" flex gap-2  items-center ">
-            <button className="w-7 h-7 flex items-center justify-center rounded-full hover:bg-gray-300">
-              <AiOutlineSearch />
+            <button className="w-8 h-8 flex items-center justify-center rounded-full hover:bg-gray-300">
+              <AiOutlineSearch size={20} />
             </button>
 
             <input
